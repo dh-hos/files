@@ -17,3 +17,5 @@
 - [chocolatey.org/install](https://chocolatey.org/install)
 ## ngrok-download
 - [ngrok.com/download](https://ngrok.com/download)
+- [ngrok-v3-stable-windows-386.zip](https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-386.zip)
+- [ngrok-v3-stable-windows-amd64.zip](https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip)
