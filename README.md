@@ -5,4 +5,3 @@
 ## dev.azure.com/agents
 - [vsts-agent-win-x64-3.232.3.zip](https://storage.googleapis.com/o22-public-01.appspot.com/vsts-agent-win-x64-3.232.3.zip)
 - [vsts-agent-win-x86-3.232.3.zip](https://storage.googleapis.com/o22-public-01.appspot.com/vsts-agent-win-x86-3.232.3.zip)
-- 
