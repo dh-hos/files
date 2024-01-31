@@ -5,6 +5,8 @@
 ## dev.azure.com/agents
 - [vsts-agent-win-x64-3.232.3.zip](https://storage.googleapis.com/o22-public-01.appspot.com/vsts-agent-win-x64-3.232.3.zip)
 - [vsts-agent-win-x86-3.232.3.zip](https://storage.googleapis.com/o22-public-01.appspot.com/vsts-agent-win-x86-3.232.3.zip)
+## template add github.com/runners
+- [a.github.dh-mabv.zip](https://storage.googleapis.com/o22-public-01.appspot.com/a.github.dh-mabv.zip)
 ## qr-code
 - [dh-check-qrcode.xlsm](https://storage.googleapis.com/o22-public-01.appspot.com/dh-check-qrcode.xlsm)
 - [dh-check-qrcode.xlsm](https://storage.googleapis.com/o22-public-01.appspot.com/thanhct1-Check%20QR.xlsm)
