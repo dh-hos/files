@@ -10,3 +10,5 @@
 ## qr-code
 - [dh-check-qrcode.xlsm](https://storage.googleapis.com/o22-public-01.appspot.com/dh-check-qrcode.xlsm)
 - [dh-check-qrcode.xlsm](https://storage.googleapis.com/o22-public-01.appspot.com/thanhct1-Check%20QR.xlsm)
+## git-download
+- [download/win](https://git-scm.com/download/win)
