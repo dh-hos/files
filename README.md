@@ -15,6 +15,7 @@
 - [Git-2.43.0-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe)
 ## chocolate-intall
 - [chocolatey.org/install](https://chocolatey.org/install)
+- ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))```
 ## ngrok-download
 - [ngrok.com/download](https://ngrok.com/download)
 - [ngrok-v3-stable-windows-386.zip](https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-386.zip)
