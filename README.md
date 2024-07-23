@@ -41,7 +41,20 @@
 
 ## PostgreSQL-Setup
 
+- [PostgresPro_9.6.24.1_64bit](PostgreSQL-Setup/PostgresPro_9.6.24.1_64bit_Setup.rar)
+
+- [PostgresPro_10.23.1_64bit](PostgreSQL-Setup/PostgresPro_10.23.1_64bit_Setup.rar)
+
 - [PostgreSQL_11.5_64bit](PostgreSQL-Setup/PostgreSQL_11.5_64bit_Setup_2.rar)
 
+- [PostgresPro_11.22.1_64bit](PostgreSQL-Setup/PostgresPro_11.22.1_64bit_Setup.rar)
+
+- [PostgresPro_12.19.2_64bit](PostgreSQL-Setup/PostgresPro_12.19.2_64bit_Setup.rar)
+
+- [PostgresPro_13.15.2_64bit](PostgreSQL-Setup/PostgresPro_13.15.2_64bit_Setup.rar)
+
+- [PostgresPro_14.12.2_64bit](PostgreSQL-Setup/PostgresPro_14.12.2_64bit_Setup.rar)
+
 - [Postgres Pro - Docs](https://postgrespro.com/docs)
+
 - [Postgres Pro - Download](https://postgrespro.com/products/download/postgrespro)
