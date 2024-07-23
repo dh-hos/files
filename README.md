@@ -41,6 +41,8 @@
 
 - [EMS_Manager_For_PostgreSQL_v.6.5.1.57809](EMSPostgreSQL/EMS_Manager_For_PostgreSQL_v.6.5.1.57809.rar)
 
+- [ems-sql-manager-downloadly.ir](https://downloadly.ir/software/programming/ems-sql-manager/)
+
 ## PostgreSQL-Setup
 
 - [PostgresPro_9.6.24.1_64bit](PostgreSQL-Setup/PostgresPro_9.6.24.1_64bit_Setup.rar)
