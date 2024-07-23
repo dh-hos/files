@@ -41,4 +41,4 @@
 
 ## PostgreSQL-Setup
 
-[PostgreSQL_11.5_64bit](PostgreSQL-Setup/PostgreSQL_11.5_64bit_Setup_2.rar)
+- [PostgreSQL_11.5_64bit](PostgreSQL-Setup/PostgreSQL_11.5_64bit_Setup_2.rar)
