@@ -43,4 +43,5 @@
 
 - [PostgreSQL_11.5_64bit](PostgreSQL-Setup/PostgreSQL_11.5_64bit_Setup_2.rar)
 
-- [Postgres Pro](https://postgrespro.com/docs)
+- [Postgres Pro - Docs](https://postgrespro.com/docs)
+- [Postgres Pro - Download](https://postgrespro.com/products/download/postgrespro)
